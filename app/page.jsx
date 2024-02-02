@@ -45,7 +45,7 @@ export default function Home() {
                     1500,
                     "We produce any Thing From any Thing",
                     1500,
-                    "We Love Peter ❤︎",
+                    "We Love Peter ❤︎.",
                     1500,
                   ]}
                   wrapper="span"
