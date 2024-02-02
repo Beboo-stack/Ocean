@@ -47,8 +47,6 @@ export default function Home() {
                     1500,
                     "We Love Peter ❤︎.",
                     1500,
-                    "hahahahha",
-                    1500,
                   ]}
                   wrapper="span"
                   speed={50}
