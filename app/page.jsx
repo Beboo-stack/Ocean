@@ -46,7 +46,7 @@ export default function Home() {
                     "We produce any Thing From any Thing",
                     1500,
                     "We Love Peter ❤︎.",
-                    1500,
+                    2500,
                   ]}
                   wrapper="span"
                   speed={50}
