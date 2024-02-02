@@ -43,7 +43,7 @@ export default function Home() {
                     1500, // wait 1s before replacing "Mice" with "Hamsters"
                     "We Makes your dream Real",
                     1500,
-                    "We produce any Thing From any Thing_",
+                    "We produce any Thing From any Thing",
                     1500,
                     "We Love Peter ❤︎.",
                     1500,
