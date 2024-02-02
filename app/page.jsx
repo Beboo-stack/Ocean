@@ -47,6 +47,8 @@ export default function Home() {
                     1500,
                     "We Love Peter ❤︎.",
                     1500,
+"A7la Mesa 3la Elnas Elkwayesa",
+1500,
                   ]}
                   wrapper="span"
                   speed={50}
